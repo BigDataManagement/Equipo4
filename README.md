@@ -1,8 +1,16 @@
 #   Objetivos Cumplidos
 
 *   Se completó la parte del reto que nos ponía en la dificultad de identificar la estructura de un dataset de un gran tamaño para realizarle una limpieza y dejarlo en condiciones para ser procesado, para esto se realizó un script en Python que soluciona el problema específico presentado por el dataset “combined_data_4.txt” el cual era que el identificador de usuario estaba pegado con la fecha del usuario anterior.
+
+![LEC](https://preview.ibb.co/k2u8d8/Captura.png)
+
 *   Se completo la parte del reto que consiste en estructurar el dataset en formato JSON para realizar la carga a la base de datos Mongo, para esto se realizó un script en PHP que toma los datos del dataset anteriormente limpiado y lo crea con la estructura en formato Json.
+
+![LEC](https://preview.ibb.co/esa6y8/photo5068987838476953591.jpg)
+
 *   Se completo la parte del reto que consiste en subir los datos anteriormente limpiados y estructurados a la base de datos no relacional MongoDB, en este ocascion se nos presentaron algunos problemas que dificultaron mucho el desarrollo del proyeccto
+
+![LEC](https://preview.ibb.co/gfOtd8/photo5068987838476953592.jpg)
 
 
 #   Estrategia Adoptada
